@@ -1,0 +1,8 @@
+{
+    "notebook.defaultFormatter": "ms-python.python",
+    "jupyter.interactiveWindow.cellMarker.decorateCells": "allCells",
+    "jupyter.interactiveWindow.notebookRepl": true,
+    "jupyter.interactiveWindow.textEditor.executeSelection": true,
+    "jupyter.interactiveWindow.textEditor.magicCommandsAsComments": true,
+    "jupyter.interactiveWindow.textEditor.normalizeSelection": true
+}

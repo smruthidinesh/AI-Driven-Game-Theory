@@ -1,0 +1,8 @@
+from setuptools import find_packages, setup
+
+setup(
+    name="multi_agent_game_theory",
+    version="0.0.1",
+    packages=find_packages(where="src"),
+    package_dir={"": "src"},
+)
