@@ -183,76 +183,76 @@ python -m examples.evolutionary_prisoner_dilemma
 
 ## 📚 Educational Value
 
-### **For Students:**
+For Students:
 - Interactive Jupyter notebooks with step-by-step tutorials
 - Comprehensive examples demonstrating key concepts
 - Visual representations of abstract game theory concepts
 - Hands-on experience with strategic decision-making
 
-### **For Researchers:**
+For Researchers:
 - Modular, extensible framework for game theory research
 - Implementation of cutting-edge algorithms
 - Tools for analyzing strategic behavior
 - Foundation for developing new game-theoretic models
 
-## 🔬 Research Applications
+ 🔬 Research Applications
 
-### **Economics:**
+Economics:
 - Market mechanism design and analysis
 - Auction theory and mechanism design
 - Industrial organization and competition policy
 
-### **Computer Science:**
+Computer Science:
 - Distributed systems and algorithm design
 - Multi-agent learning and coordination
 - Mechanism design for online platforms
 
-### **Social Sciences:**
+Social Sciences:
 - Understanding cooperation and competition
 - Political science and international relations
 - Behavioral economics and decision-making
 
-### **Artificial Intelligence:**
+Artificial Intelligence:
 - Multi-agent learning and coordination
 - Strategic reasoning in AI systems
 - Mechanism design for AI systems
 
-## 🎓 Key Learning Outcomes
+ 🎓 Key Learning Outcomes
 
 After working with this project, you will understand:
 
-1. **Game Theory Fundamentals**
+1. Game Theory Fundamentals
    - Nash equilibrium and solution concepts
    - Mixed strategies and evolutionary dynamics
    - Mechanism design and auction theory
 
-2. **Multi-Agent Systems**
+2. Multi-Agent Systems
    - Agent architectures and communication protocols
    - Coordination and cooperation mechanisms
    - Learning and adaptation in multi-agent environments
 
-3. **Practical Implementation**
+3. Practical Implementation
    - Algorithm design and optimization
    - Visualization and analysis tools
    - Real-world applications and case studies
 
 ## 🛠️ Technical Features
 
-- **30+ Python files** implementing core functionality
-- **4 main modules**: Game Theory, Multi-Agent Systems, Auctions, Visualization
-- **6 classic games** with full implementations
-- **3 auction mechanisms** with strategy analysis
-- **Multiple agent types** with different learning capabilities
-- **Comprehensive test suite** covering all major features
-- **Interactive Jupyter notebooks** for hands-on learning
+- 30+ Python files implementing core functionality
+- 4 main modules: Game Theory, Multi-Agent Systems, Auctions, Visualization
+- 6 classic games with full implementations
+- 3 auction mechanisms with strategy analysis
+- Multiple agent types with different learning capabilities
+- Comprehensive test suite covering all major features
+- Interactive Jupyter notebooks for hands-on learning
 
 ## 📊 Project Statistics
 
-- **Lines of Code**: 5,000+ lines of well-documented Python
-- **Test Coverage**: Comprehensive test suite for all modules
-- **Documentation**: Extensive documentation and examples
-- **Dependencies**: Minimal dependencies for easy installation
-- **Compatibility**: Python 3.8+ with cross-platform support
+- Lines of Code: 5,000+ lines of well-documented Python
+- Test Coverage: Comprehensive test suite for all modules
+- Documentation: Extensive documentation and examples
+- Dependencies: Minimal dependencies for easy installation
+- Compatibility: Python 3.8+ with cross-platform support
 
 ## 🔧 Dependencies
 
